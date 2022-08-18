@@ -1,0 +1,22 @@
+{
+  "name": "regular-expression",
+  "version": "1.0.0",
+  "description": "",
+  "main": "simple-reg-parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regischen/regular-expression.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/regischen/regular-expression/issues"
+  },
+  "homepage": "https://github.com/regischen/regular-expression#readme",
+  "devDependencies": {
+    "@types/node": "^18.7.6"
+  }
+}
