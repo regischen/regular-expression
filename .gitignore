@@ -1,5 +1,5 @@
 .dSYM
 node_modules/
 *.js
-.vscode/
+.vscode/*
 NFA
