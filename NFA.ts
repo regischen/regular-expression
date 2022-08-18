@@ -99,6 +99,7 @@ function list1(state: State, number : 0 | 1 = 0)  : Ptrlist {
   let p = new Ptrlist([state], [number])
   return p;
 }
+
 function patch(ptr: Ptrlist, state:State){
   ptr.states.forEach((s,index) => {
     if(ptr.numbers[index] === 0){
